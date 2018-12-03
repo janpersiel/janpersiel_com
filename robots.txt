@@ -1,0 +1,4 @@
+﻿User-agent: *
+Sitemap: http://janpersiel.com/sitemap.xml
+Disallow: /ghost/
+Disallow: /p/
